@@ -1,3 +1,3 @@
-#School Homework
+# School Homework
 
->Folder for all my **Summer Homework**⛱️ in **c** (Italian)
+>Folder for all my **Summer Homework**⛱️ in **c** (*Italian*)

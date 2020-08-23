@@ -78,4 +78,5 @@ int main()
 	//Perchè il primo programma usa un for che come condizione ha i < 10 (ad ogni giro i aumenta) 
 
 	//Mentre il secondo usa un while che come condizione ha i > = 0 (ad ogni giro i diminuisce)
+	
 }

@@ -6,3 +6,4 @@ I miei esercizi per le vacanze estive consistevano nello scegliere **3 esercizi*
 
 In ogni capitolo c'èra un **macro argomento** affrontato come ad esempio gli *array* o la gestione delle *stringhe*.
  
+ 

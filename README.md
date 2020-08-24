@@ -6,3 +6,4 @@
 Una **piccola Raccolta** di esercizi semplici in **C** dati dal prof di informatica
 
 ` DISCLAIMER: Lo so che gli esercizi potrebbero essere svolti male, Accetto volentieri dei consigli 😄`
+ 
